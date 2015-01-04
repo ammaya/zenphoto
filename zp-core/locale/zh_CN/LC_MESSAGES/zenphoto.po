@@ -57,7 +57,7 @@ msgstr "日期: %s"
 #: zenphoto/themes/default/404.php:7
 #: zenphoto/themes/default/404.php:20
 msgid "Object not found"
-msgstr "物件不存在"
+msgstr "文件不存在"
 
 #: zenphoto/themes/default/404.php:19
 #: zenphoto/themes/default/archive.php:21
@@ -65,16 +65,16 @@ msgstr "物件不存在"
 #: zenphoto/themes/default/password.php:19
 #: zenphoto/themes/default/register.php:19
 msgid "Gallery Index"
-msgstr "相馆索引"
+msgstr "相馆页"
 
 #: zenphoto/themes/default/404.php:26
 msgid "The Zenphoto object you are requesting cannot be found."
-msgstr "你要求的Zenphoto的物件不存在."
+msgstr "你要求的Zenphoto的文件不存在."
 
 #: zenphoto/themes/default/404.php:28
 #, php-format
 msgid "Album: %s"
-msgstr "相簿: %s"
+msgstr "相册: %s"
 
 #: zenphoto/themes/default/404.php:31
 #, php-format
@@ -89,7 +89,7 @@ msgstr "页: %s"
 #: zenphoto/themes/default/album.php:18
 #: zenphoto/themes/default/image.php:35
 msgid "Albums Index"
-msgstr "相簿索引"
+msgstr "相册页"
 
 #: zenphoto/themes/default/album.php:29
 #: zenphoto/themes/default/album.php:32
@@ -98,7 +98,7 @@ msgstr "相簿索引"
 #: zenphoto/themes/default/search.php:44
 #: zenphoto/themes/default/search.php:47
 msgid "View album:"
-msgstr "观看相簿:"
+msgstr "观看相册:"
 
 #: zenphoto/themes/default/album.php:50
 #: zenphoto/themes/default/image.php:30
@@ -127,7 +127,7 @@ msgstr "播放幻灯片"
 
 #: zenphoto/themes/default/album.php:64
 msgid "Album RSS"
-msgstr "相簿 RSS"
+msgstr "相册 RSS"
 
 #: zenphoto/themes/default/album.php:64
 #: zenphoto/themes/default/archive.php:7
@@ -136,7 +136,7 @@ msgstr "相簿 RSS"
 #: zenphoto/themes/default/index.php:53
 #: zenphoto/themes/default/search.php:77
 msgid "Archive View"
-msgstr "记录模式显示"
+msgstr "目录显示"
 
 #: zenphoto/themes/default/archive.php:10
 #: zenphoto/themes/default/image.php:19
@@ -153,11 +153,11 @@ msgstr "常见标签"
 #: zenphoto/themes/default/contact.php:20
 #: zenphoto/themes/default/index.php:56
 msgid "Contact us"
-msgstr "联络我们"
+msgstr "联系我们"
 
 #: zenphoto/themes/default/contact.php:24
 msgid "Contact us."
-msgstr "联络我们."
+msgstr "联系我们."
 
 #: zenphoto/themes/default/image.php:30
 msgid "Previous Image"
@@ -169,24 +169,24 @@ msgstr "下一张"
 
 #: zenphoto/themes/default/image.php:73
 msgid "Image Info"
-msgstr "图片资料"
+msgstr "图片详情"
 
 #: zenphoto/themes/default/index.php:62
 #: zenphoto/themes/default/password.php:34
 msgid "Register for this site"
-msgstr "登记为用户"
+msgstr "注册为用户"
 
 #: zenphoto/themes/default/password.php:7
 msgid "Password required"
-msgstr "须要密码"
+msgstr "需要密码"
 
 #: zenphoto/themes/default/password.php:20
 msgid "A password is required for the page you requested"
-msgstr "你请求的页面须要密码"
+msgstr "你请求的页面需要密码"
 
 #: zenphoto/themes/default/password_form.php:10
 msgid "Login"
-msgstr "用户名称"
+msgstr "用户名"
 
 #: zenphoto/themes/default/password_form.php:17
 msgid "Password"
@@ -194,7 +194,7 @@ msgstr "密码"
 
 #: zenphoto/themes/default/password_form.php:22
 msgid "Submit"
-msgstr "送出"
+msgstr "提交"
 
 #: zenphoto/themes/default/password_form.php:28
 #, php-format
@@ -203,16 +203,16 @@ msgstr "提示: %s"
 
 #: zenphoto/themes/default/register.php:20
 msgid "Register"
-msgstr "登记"
+msgstr "注册"
 
 #: zenphoto/themes/default/register.php:24
 msgid "User Registration"
-msgstr "用户登记"
+msgstr "用户注册"
 
 #: zenphoto/themes/default/search.php:7
 #: zenphoto/themes/default/search.php:25
 msgid "Search"
-msgstr "搜寻"
+msgstr "查找"
 
 #: zenphoto/themes/default/search.php:36
 #, php-format
@@ -225,23 +225,23 @@ msgstr "日期:"
 
 #: zenphoto/themes/default/search.php:67
 msgid "Sorry, no image matches found. Try refining your search."
-msgstr "对不起, 没有匹配的图片.  请再以不同条件搜寻."
+msgstr "对不起, 没有匹配的图片.  请再以不同条件查找."
 
 #: zenphoto/themes/default/themeoptions.php:18
 msgid "Allow search"
-msgstr "容许搜寻"
+msgstr "允许查找"
 
 #: zenphoto/themes/default/themeoptions.php:18
 msgid "Check to enable search form."
-msgstr "剔选以使用搜寻."
+msgstr "筛选已使用查找."
 
 #: zenphoto/themes/default/themeoptions.php:19
 msgid "Theme colors"
-msgstr "布景主题颜色"
+msgstr "设置主题颜色"
 
 #: zenphoto/themes/default/themeoptions.php:19
 msgid "Select the colors of the theme"
-msgstr "选择布景主题颜色."
+msgstr "设置主题颜色."
 
 #: zenphoto/themes/default/theme_description.php:4
 msgid "<a href=\"http://www.noscope.com\" target=\"_blank\">Joen Asmussen</a> and <a href=\"http://www.levibuzolic.com\" target=\"_blank\">Levi Buzolic</a>"
@@ -249,7 +249,7 @@ msgstr "<a href=\"http://www.noscope.com\" target=\"_blank\">Joen Asmussen</a> �
 
 #: zenphoto/themes/default/theme_description.php:7
 msgid "The default theme in 4 distinct flavors. After choosing this theme you can pick the theme color by going to the Admin Options tab and changing the <em>Theme colors</em> option."
-msgstr "预设布景主题有四种不同韵味.  选择这主题后你可以在管理选项栏中的<em>布景主题颜色</em>选取不同的主题颜色."
+msgstr "预设主题有四种不同韵味.  选择这主题后你可以在管理选项栏中的<em>主题颜色</em>选取不同的主题颜色."
 
 #: zenphoto/themes/effervescence_plus/404.php:33
 #: zenphoto/themes/effervescence_plus/album.php:141
@@ -262,7 +262,7 @@ msgstr "预设布景主题有四种不同韵味.  选择这主题后你可以在
 #: zenphoto/themes/effervescence_plus/password.php:33
 #: zenphoto/themes/effervescence_plus/register.php:79
 msgid "Main Index"
-msgstr "主索引"
+msgstr "首页"
 
 #: zenphoto/themes/effervescence_plus/404.php:33
 #: zenphoto/themes/effervescence_plus/album.php:141
@@ -275,7 +275,7 @@ msgstr "主索引"
 #: zenphoto/themes/effervescence_plus/password.php:33
 #: zenphoto/themes/effervescence_plus/register.php:79
 msgid "Home"
-msgstr "主页"
+msgstr "首页"
 
 #: zenphoto/themes/effervescence_plus/album.php:204
 msgid "Google Map"
@@ -301,7 +301,7 @@ msgstr "在新视窗开启"
 #: zenphoto/themes/effervescence_plus/news.php:12
 #: zenphoto/themes/effervescence_plus/pages.php:12
 msgid "Archive"
-msgstr "记录模式"
+msgstr "目录模式"
 
 #: zenphoto/themes/effervescence_plus/archive.php:63
 msgid "Images By Date"
@@ -310,7 +310,7 @@ msgstr "根据日期"
 #: zenphoto/themes/effervescence_plus/contact.php:50
 #: zenphoto/themes/effervescence_plus/contact.php:86
 msgid "Contact"
-msgstr "联络"
+msgstr "联系"
 
 #: zenphoto/themes/effervescence_plus/functions.php:21
 msgid "There were no images from which to select the random heading."
@@ -324,8 +324,8 @@ msgstr "随机图片..."
 #, php-format
 msgid "%u album"
 msgid_plural "%u albums"
-msgstr[0] "%u 个相簿"
-msgstr[1] "%u 个相簿"
+msgstr[0] "%u 个相册"
+msgstr[1] "%u 个相册"
 
 #: zenphoto/themes/effervescence_plus/functions.php:72
 #, php-format
@@ -337,7 +337,7 @@ msgstr[1] "%u 张图片"
 #: zenphoto/themes/effervescence_plus/functions.php:98
 #, php-format
 msgid "Album %1$u of %2$u"
-msgstr "相簿 %2$u 之 %1$u "
+msgstr "相册 %2$u 之 %1$u "
 
 #: zenphoto/themes/effervescence_plus/functions.php:100
 #, php-format
@@ -381,7 +381,7 @@ msgstr "这相簿受密码保护."
 
 #: zenphoto/themes/effervescence_plus/functions.php:170
 msgid "The album is not published."
-msgstr "相簿未发表."
+msgstr "相册未发表."
 
 #: zenphoto/themes/effervescence_plus/functions.php:172
 #, php-format
